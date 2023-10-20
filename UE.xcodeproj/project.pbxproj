@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F136DAC2AD2274E00956AE8 /* SwiftSoup in Frameworks */ = {isa = PBXBuildFile; productRef = 1F136DAB2AD2274E00956AE8 /* SwiftSoup */; };
+		1F136DAE2AD2341F00956AE8 /* AuthorizationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F136DAD2AD2341F00956AE8 /* AuthorizationView.swift */; };
+		1F136DB02AD3484000956AE8 /* OnlineCampus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F136DAF2AD3484000956AE8 /* OnlineCampus.swift */; };
 		1F4832A22AC89DB600024C7B /* UEApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4832A12AC89DB600024C7B /* UEApp.swift */; };
 		1F4832A42AC89DB600024C7B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4832A32AC89DB600024C7B /* ContentView.swift */; };
 		1F4832A62AC89DBA00024C7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F4832A52AC89DBA00024C7B /* Assets.xcassets */; };
@@ -14,6 +17,10 @@
 		1F4832B32AC89DBA00024C7B /* UETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4832B22AC89DBA00024C7B /* UETests.swift */; };
 		1F4832BD2AC89DBA00024C7B /* UEUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4832BC2AC89DBA00024C7B /* UEUITests.swift */; };
 		1F4832BF2AC89DBA00024C7B /* UEUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4832BE2AC89DBA00024C7B /* UEUITestsLaunchTests.swift */; };
+		1F4832CC2AC89F0600024C7B /* TimetableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F4832CB2AC89F0600024C7B /* TimetableView.swift */; };
+		1F544A7C2ACD6B1000C6AEDD /* AuthorizationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F544A7B2ACD6B1000C6AEDD /* AuthorizationTests.swift */; };
+		1F544A802ACD9CA700C6AEDD /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F544A7F2ACD9CA700C6AEDD /* Event.swift */; };
+		1F97C25E2ADD5AE800E10126 /* TimetableTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F97C25D2ADD5AE800E10126 /* TimetableTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1F136DAD2AD2341F00956AE8 /* AuthorizationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationView.swift; sourceTree = "<group>"; };
+		1F136DAF2AD3484000956AE8 /* OnlineCampus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnlineCampus.swift; sourceTree = "<group>"; };
 		1F48329E2AC89DB600024C7B /* UE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F4832A12AC89DB600024C7B /* UEApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UEApp.swift; sourceTree = "<group>"; };
 		1F4832A32AC89DB600024C7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +53,10 @@
 		1F4832B82AC89DBA00024C7B /* UEUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UEUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F4832BC2AC89DBA00024C7B /* UEUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UEUITests.swift; sourceTree = "<group>"; };
 		1F4832BE2AC89DBA00024C7B /* UEUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UEUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1F4832CB2AC89F0600024C7B /* TimetableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimetableView.swift; sourceTree = "<group>"; };
+		1F544A7B2ACD6B1000C6AEDD /* AuthorizationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationTests.swift; sourceTree = "<group>"; };
+		1F544A7F2ACD9CA700C6AEDD /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
+		1F97C25D2ADD5AE800E10126 /* TimetableTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimetableTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +64,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F136DAC2AD2274E00956AE8 /* SwiftSoup in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,10 +108,12 @@
 		1F4832A02AC89DB600024C7B /* UE */ = {
 			isa = PBXGroup;
 			children = (
+				1FA8A0972ACC3A8A00AA07E1 /* Views */,
+				1FA8A0962ACC3A8100AA07E1 /* Models */,
+				1F4832CD2AC8A0A000024C7B /* Service */,
 				1F4832A12AC89DB600024C7B /* UEApp.swift */,
-				1F4832A32AC89DB600024C7B /* ContentView.swift */,
-				1F4832A52AC89DBA00024C7B /* Assets.xcassets */,
 				1F4832A72AC89DBA00024C7B /* Preview Content */,
+				1F4832A52AC89DBA00024C7B /* Assets.xcassets */,
 			);
 			path = UE;
 			sourceTree = "<group>";
@@ -114,6 +130,8 @@
 			isa = PBXGroup;
 			children = (
 				1F4832B22AC89DBA00024C7B /* UETests.swift */,
+				1F544A7B2ACD6B1000C6AEDD /* AuthorizationTests.swift */,
+				1F97C25D2ADD5AE800E10126 /* TimetableTests.swift */,
 			);
 			path = UETests;
 			sourceTree = "<group>";
@@ -125,6 +143,32 @@
 				1F4832BE2AC89DBA00024C7B /* UEUITestsLaunchTests.swift */,
 			);
 			path = UEUITests;
+			sourceTree = "<group>";
+		};
+		1F4832CD2AC8A0A000024C7B /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				1F136DAF2AD3484000956AE8 /* OnlineCampus.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		1FA8A0962ACC3A8100AA07E1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				1F544A7F2ACD9CA700C6AEDD /* Event.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		1FA8A0972ACC3A8A00AA07E1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				1F4832A32AC89DB600024C7B /* ContentView.swift */,
+				1F4832CB2AC89F0600024C7B /* TimetableView.swift */,
+				1F136DAD2AD2341F00956AE8 /* AuthorizationView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -143,6 +187,9 @@
 			dependencies = (
 			);
 			name = UE;
+			packageProductDependencies = (
+				1F136DAB2AD2274E00956AE8 /* SwiftSoup */,
+			);
 			productName = UE;
 			productReference = 1F48329E2AC89DB600024C7B /* UE.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +262,9 @@
 				Base,
 			);
 			mainGroup = 1F4832952AC89DB600024C7B;
+			packageReferences = (
+				1F136DAA2AD2274E00956AE8 /* XCRemoteSwiftPackageReference "SwiftSoup" */,
+			);
 			productRefGroup = 1F48329F2AC89DB600024C7B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -258,7 +308,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F4832A42AC89DB600024C7B /* ContentView.swift in Sources */,
+				1F4832CC2AC89F0600024C7B /* TimetableView.swift in Sources */,
+				1F136DB02AD3484000956AE8 /* OnlineCampus.swift in Sources */,
 				1F4832A22AC89DB600024C7B /* UEApp.swift in Sources */,
+				1F544A802ACD9CA700C6AEDD /* Event.swift in Sources */,
+				1F136DAE2AD2341F00956AE8 /* AuthorizationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +321,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F4832B32AC89DBA00024C7B /* UETests.swift in Sources */,
+				1F544A7C2ACD6B1000C6AEDD /* AuthorizationTests.swift in Sources */,
+				1F97C25E2ADD5AE800E10126 /* TimetableTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -588,6 +644,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		1F136DAA2AD2274E00956AE8 /* XCRemoteSwiftPackageReference "SwiftSoup" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/scinfu/SwiftSoup";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.6.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		1F136DAB2AD2274E00956AE8 /* SwiftSoup */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 1F136DAA2AD2274E00956AE8 /* XCRemoteSwiftPackageReference "SwiftSoup" */;
+			productName = SwiftSoup;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 1F4832962AC89DB600024C7B /* Project object */;
 }

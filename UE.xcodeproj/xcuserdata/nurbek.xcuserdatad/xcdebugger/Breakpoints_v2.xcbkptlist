@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D6734A6C-1AFC-4A0D-9EE0-C9B011B96BCC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UETests/AuthorizationTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AuthorizationTestCase"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - b4c8bdbaee06b8be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.__allocating_init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - 13110ec01e8ce128"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - f3b224fdae1e747d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.__allocating_init(selector: ObjectiveC.Selector) -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - 62d47f5de7cf418c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.init(selector: ObjectiveC.Selector) -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - cdd8e5adbb6400e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.__allocating_init() -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - d1e7c5fccbe00b14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.init() -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - 96c59e21758eab99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.__deallocating_deinit"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - 13110ec01e8ce109"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.init(invocation: Swift.Optional&lt;__C.NSInvocation&gt;) -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - 62d47f5de7cf41ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.init(selector: ObjectiveC.Selector) -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/UETests/AuthorizationTestCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "5286DEB2-0C8A-4761-9140-6446A6AC0BAB - 256dcc5b04a5b026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UETests.AuthorizationTestCase.init() -&gt; UETests.AuthorizationTestCase"
+                  moduleName = "UETests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nurbek/Documents/Programming/Languages/Swift/UE/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7197D75-A1B6-458E-8511-9F789F4E48CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UETests/AuthorizationTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testAuthSessionActivityTrue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
